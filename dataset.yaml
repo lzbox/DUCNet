@@ -1,0 +1,34 @@
+# duo
+path: /mnt/c/Users/DELL/Desktop/duo # dataset root dir
+train: images/train # train images (relative to 'path') 4 images
+val: images/val # val images (relative to 'path') 4 images
+test: images/test # test images (optional)
+
+# Classes
+names:
+  0: holothurian
+  1: echinus
+  2: scallop
+  3: starfish
+
+
+# rudo
+#path: ../../config/dataset-lz/ruod # dataset root dir
+#train: images/train # train images (relative to 'path') 4 images
+#val: images/val # val images (relative to 'path') 4 images
+#test: images/test # test images (optional)
+#
+## Classes
+#names:
+#  0: holothurian
+#  1: echinus
+#  2: scallop
+#  3: starfish
+#  4: fish
+#  5: corals
+#  6: diver
+#  7: cuttlefish
+#  8: turtle
+#  9: jellyfish
+
+
