@@ -7,7 +7,6 @@ Official PyTorch implementation of the paper:
 **DUCNet: A Dynamic and Aligned Network for Underwater Detection**  
 Dehua Zhang , Zhen Li , Changcheng Yu, Ruixue Xia  
 School of Artificial Intelligence, Henan University  
-*Accepted to The Visual Computer (2025)*
 
 ---
 
